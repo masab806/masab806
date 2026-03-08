@@ -59,7 +59,6 @@
   </a>
 </p>
 
-- Cloud Servers
 <!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
