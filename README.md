@@ -22,7 +22,7 @@
 **Backend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,dotnet,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,dotnet,express,nestjs,golang" />
   </a>
 </p>
 
